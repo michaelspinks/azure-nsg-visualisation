@@ -1,4 +1,8 @@
 
+# Generates a Digraph from csv file export of NSG Rules for added visibility
+# With complicated rulesets it looks a bit messier
+# Take the graph and put into GVedit which is a nice frontend for this sort of thing
+
 import csv
 
 
